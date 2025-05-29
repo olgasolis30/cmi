@@ -1,6 +1,6 @@
 ## (Nombre del proyecto)
 
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+Cotton Dreams
 
 
 
@@ -8,21 +8,21 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Cotton Dreams
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Olga Solís Pérez
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Piplup sale de su pokeball y se duerme sobre un altaria, que sin darse cuenta se lo lleva en su lomo hacia su guarida. La dueña de Piplup deberá resolver una serie de acertijos si quiere llegar hasta esta guarida y recuperar su pokemon
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:** Juego 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![cabeza de Piplup](https://photos.app.goo.gl/br6GnnQCNiuUGkxn6)
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+
+**Resolución:** 800x600px responsivo
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
@@ -30,24 +30,23 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 28/05/2025
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
+
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: 
+### 2.1 Storyboard: ![](https://photos.app.goo.gl/da9RUhpkjpxnRpCT9)
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+
 
 
 
@@ -71,7 +70,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** Me han inspirado algunos juegos de alumnos de otros cursos y a su vez los juegos de mi infancia de Pokémon
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
 - 
@@ -80,7 +79,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque hacer los gráficos siendo de pokemon me ha generado mucha motivación y también el agregarles movimiento para crear una composición, en este caso un juego que no me imaginaba que probase a hacer nunca.
 
 
 
@@ -88,32 +87,33 @@ Este  proyecto es interesante porque ...
 
 - Orientado a 
 
-
+Infantil
 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+
 
 - Juego. 
 - Video 
 - Instrucciones y ayuda al usuario 
+- quiz
 - Menús y elementos de navegación (botones)
-- etc.
+
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+A algunos botones con textura me era imposible colocarles audio ya que el código me daba muchos problemas, al igual que el juego de emparejar cartas que no he podido incluir finalmente,
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
+Me gustaría crear mas minijuegos y realizar los gráficos del juego de manera digital, además de crear más animaciones con movimiento más fluido
 
 
 
@@ -134,7 +134,7 @@ Este  proyecto es interesante porque ...
 
 **Herramientas utilizadas**
 
-- Hippani Animator 5.1
+- Godot 4.4.1
 - 
 
 
@@ -143,4 +143,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2023
+Mayo 2025
