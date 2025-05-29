@@ -38,7 +38,6 @@ Cotton Dreams
 
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
