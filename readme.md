@@ -10,7 +10,7 @@ Cotton Dreams
 
 **Titulo** : Cotton Dreams
 
-**Web:**   (url github.io)
+**Web:**   
 
 **Autor:**  Olga Solís Pérez
 
@@ -32,9 +32,9 @@ Cotton Dreams
 
 **Fecha** : 28/05/2025
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** (donde se tiene presencia relacionada): 
 
-- Github:
+- Github: https://olgasolis30.itch.io/cotton-dreams
 
 
 
