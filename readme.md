@@ -160,19 +160,3 @@ Mayo 2025
 
 
 
-* Musica:  
-* Imágenes:  
-* Tipografía
-
-**Herramientas utilizadas**
-
-- Godot 4.4.1
-- 
-
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2025
