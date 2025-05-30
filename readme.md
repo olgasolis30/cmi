@@ -6,11 +6,12 @@ Cotton Dreams
 
 # 1 Datos 
 
-
+ENLACE EN ZIP DE MI JUEGO (se lo adjunto aquí ya que por pesar mucho no se pudo subir de otra manera):
+ https://consigna.ugr.es/?s=download&token=a249d375-97f1-4b57-9ff9-a24632665562
 
 **Titulo** : Cotton Dreams
 
-**Web:**   
+**Web:**   (url github.io)
 
 **Autor:**  Olga Solís Pérez
 
@@ -24,24 +25,25 @@ Cotton Dreams
 
 **Resolución:** 800x600px responsivo
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome itch.io
 
 **Tamaño proyecto:** 14MB 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia**: Olga Solís Pérez
 
 **Fecha** : 28/05/2025
 
-**Medios** (donde se tiene presencia relacionada): 
+**Medios** 
 
-- Github: https://olgasolis30.itch.io/cotton-dreams
+- Github:
 
 
 
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: ![](https://photos.app.goo.gl/da9RUhpkjpxnRpCT9)
+### 2.1 Storyboard:
+![](https://photos.google.com/u/2/album/AF1QipN1SOzB6dSI37GWC4wAd0KfxN9V01bNxQuJQapb/photo/AF1QipNx1H92UT9GpXxBxPHWk-AZM8Qe8E3c5Zixw3Yj?hl=es)
 
 
 
@@ -51,9 +53,8 @@ Cotton Dreams
 
 ### 2.2. Esquema de navegación 
 
+![](https://photos.google.com/u/2/album/AF1QipN1SOzB6dSI37GWC4wAd0KfxN9V01bNxQuJQapb/photo/AF1QipPxr6CMh3b8SpOwOX2GPt-plndaxJ7goMlhlvpv?hl=es)
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
@@ -69,9 +70,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** Me han inspirado algunos juegos de alumnos de otros cursos y a su vez los juegos de mi infancia de Pokémon
+**Investigación de campo** Me han inspirado algunos juegos de alumnos de otros cursos y a su vez los juegos de mi infancia de Pokémon. He investigado sobre ellos y he decidido adaptarme a una estética parecida a esos juegos
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
 - 
 
 
@@ -86,7 +86,7 @@ Este  proyecto es interesante porque hacer los gráficos siendo de pokemon me ha
 
 - Orientado a 
 
-Infantil
+Publico infantil
 
 
 
@@ -94,18 +94,17 @@ Infantil
 
 
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- quiz
-- Menús y elementos de navegación (botones)
+- presentación del juego o teaser
+- menú con elementos explicativos e importantes para el jugador 
+- quiz con cuatro preguntas y elementos de navegación con textura y sin textura
+
 
 
 
 
 ### Etapa 3: Problemas identificados
 
-A algunos botones con textura me era imposible colocarles audio ya que el código me daba muchos problemas, al igual que el juego de emparejar cartas que no he podido incluir finalmente,
+A algunos botones con textura me era imposible colocarles audio ya que el código me daba muchos problemas, al igual que el juego de emparejar cartas que no he podido incluir finalmente por un error en la organización de las cartas
 
 
 
@@ -122,10 +121,44 @@ Me gustaría crear mas minijuegos y realizar los gráficos del juego de manera d
 # 5 Referencias 
 
 **Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+https://www.pokemon.com/es/pokedex/piplup
+https://www.wikidex.net/wiki/Dawn/Maya
+https://www.pokemon.com/es/pokedex/altaria
+https://www.pokemon.com/es/pokedex/unown
 
 **Recursos y materiales audiovisuales:**
+
+* Musica:  youtube
+* Imágenes:  elementos creados por mi y en algunos casos sacados de Pokémon oficial
+* Tipografía:
+
+**Herramientas utilizadas**
+
+- Godot 4.4.1
+
+
+
+
+(imagen de la licencia, copiar y pegar aquí la correcta)
+
+https://creativecommons.org/licenses/?lang=es
+
+Mayo 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 * Musica:  
 * Imágenes:  
