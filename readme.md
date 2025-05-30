@@ -43,7 +43,7 @@ ENLACE EN ZIP DE MI JUEGO (se lo adjunto aquí ya que por pesar mucho no se pudo
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard:
-![](https://photos.google.com/u/2/album/AF1QipN1SOzB6dSI37GWC4wAd0KfxN9V01bNxQuJQapb/photo/AF1QipNx1H92UT9GpXxBxPHWk-AZM8Qe8E3c5Zixw3Yj?hl=es)
+(https://photos.google.com/u/2/album/AF1QipN1SOzB6dSI37GWC4wAd0KfxN9V01bNxQuJQapb/photo/AF1QipNx1H92UT9GpXxBxPHWk-AZM8Qe8E3c5Zixw3Yj?hl=es)
 
 
 
@@ -53,7 +53,7 @@ ENLACE EN ZIP DE MI JUEGO (se lo adjunto aquí ya que por pesar mucho no se pudo
 
 ### 2.2. Esquema de navegación 
 
-![](https://photos.google.com/u/2/album/AF1QipN1SOzB6dSI37GWC4wAd0KfxN9V01bNxQuJQapb/photo/AF1QipPxr6CMh3b8SpOwOX2GPt-plndaxJ7goMlhlvpv?hl=es)
+(https://photos.google.com/u/2/album/AF1QipN1SOzB6dSI37GWC4wAd0KfxN9V01bNxQuJQapb/photo/AF1QipPxr6CMh3b8SpOwOX2GPt-plndaxJ7goMlhlvpv?hl=es)
 
 
 
